@@ -18,3 +18,9 @@ MIT – siehe `LICENSE`.
 
 ## Tags (für GitHub)
 esp32, tft, tft_espi, display, diagnostics
+
+---
+
+## Kontakt
+
+**Entwickler:** Yanis Ameseder · **E-Mail:** [g4me.over.18@gmail.com](mailto:g4me.over.18@gmail.com)
