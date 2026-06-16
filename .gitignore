@@ -5,6 +5,9 @@
 .idea/
 *.code-workspace
 
+# Release-Artefakte (gehören an GitHub Releases, nicht ins Repo)
+release-bins/
+
 # Arduino IDE
 *.ino.eep
 *.ino.bin
