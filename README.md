@@ -2,6 +2,8 @@
 
 # TFT-AutoProbe
 
+[![CI](https://github.com/G4MEOVER18/TFT-AutoProbe/actions/workflows/platformio-build.yml/badge.svg)](https://github.com/G4MEOVER18/TFT-AutoProbe/actions/workflows/platformio-build.yml)
+
 **Mini-Diagnose-Firmware zum schnellen Verifizieren eines TFT_eSPI-Setups** (Init / Rotation / Backlight) auf ESP32.
 
 [![Plattform](https://img.shields.io/badge/Plattform-ESP32-blue?style=flat-square)](.)
